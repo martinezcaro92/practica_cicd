@@ -4,6 +4,7 @@ on: #2
   push:
    branches:
       - main
+      - final
   pull_request:
     branches:
       - main
