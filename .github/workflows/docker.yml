@@ -40,5 +40,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: | #
-            martinezcaro92/practica_cicd:latest 
-            ghcr.io/martinezcaro92/practica_cicd:latest 
+            martinezcaro92/practica_cicd:latest
